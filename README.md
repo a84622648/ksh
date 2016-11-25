@@ -15,9 +15,9 @@
 
 3.1 기초지식(Basics)
 
-Programming Languages: C, C++, Java, Javascript, jQuery
-Operating Systems: Linux, Windows
-IDE(Eclipse, Android Studio)
+- Programming Languages: C,  Java, 
+- Operating Systems:  Windows
+- IDE(Eclipse, Android Studio, MATLAB)
 3.2 세부 전공 기술
 
 모바일 개발 (Android)
