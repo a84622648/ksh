@@ -29,6 +29,9 @@
 
 3.2 세부 전공 기술
 
+-전자회로
+
+-MATLAB
 모바일 프로그래밍
 - Android Studio
 Server
